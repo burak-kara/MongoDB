@@ -1,4 +1,5 @@
 connection_key.txt
-.ipynb_checkpoints
+src/.ipynb_checkpoints
 .idea
 data
+src/node_modules/*
